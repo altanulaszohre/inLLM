@@ -2,11 +2,16 @@
   <img src="public/icon.svg" alt="inLLM Logo" width="42" height="42">
   inLLM
 </h1>
-**A focused workspace for local AI.**
 
-inLLM brings conversations, software development, documents, images, audio, and local model management together in a single desktop and browser-based workspace. Built for a private, user-controlled workflow, it requires no account or subscription and does not bundle or automatically download model weights.
+
+**A unified environment for local AI development and interaction.**
+
+inLLM is an open-source AI workspace designed to bring local language models and multimodal capabilities into a single, cohesive environment. Available as a macOS desktop application and a browser-based interface, it integrates AI-assisted coding, conversational interaction, document analysis, image understanding, and audio processing.
+
+Built around a modular architecture, inLLM supports compatible models through Ollama, llama.cpp, and MLX, allowing users to manage their own models and workflows without relying on a specific provider.
 
 **Developed by Altan Ulas Zohre.**
+
 
 ## Application preview
 
