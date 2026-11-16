@@ -1,4 +1,4 @@
-
+<h1>
   <img src="public/icon.svg" alt="inLLM Logo" width="42" height="42">
   inLLM
 </h1>
