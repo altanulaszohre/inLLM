@@ -1,5 +1,7 @@
-<img src="public/icon.svg" alt="inLLM logo" /> <span>inLLM</span>
-
+<img src="public/icon.svg" alt="inLLM logo" /> <span>inLLM</span><h1>
+  <img src="public/icon.svg" alt="inLLM Logo" width="42" height="42">
+  inLLM
+</h1>
 **A focused workspace for local AI.**
 
 inLLM brings conversations, software development, documents, images, audio, and local model management together in a single desktop and browser-based workspace. Built for a private, user-controlled workflow, it requires no account or subscription and does not bundle or automatically download model weights.
