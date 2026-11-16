@@ -1,4 +1,4 @@
-<img src="/icon.svg" alt="inLLM logo" /> <span>inLLM</span>
+<img src="public/icon.svg" alt="inLLM logo" /> <span>inLLM</span>
 
 **A focused workspace for local AI.**
 
